@@ -1,0 +1,3 @@
+C:/Users/boomp/Desktop/Feldman C++/cmake-build-debug/CMakeFiles/Feldman_C__.dir
+C:/Users/boomp/Desktop/Feldman C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/boomp/Desktop/Feldman C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
